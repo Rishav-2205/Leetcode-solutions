@@ -152,3 +152,11 @@ It motivates me to keep learning, improving, and sharing my progress.
 ---
 
 > **"Strong software engineers aren't built by memorizing solutions—they're built by solving problems consistently."**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+<!---LeetCode Topics End-->
