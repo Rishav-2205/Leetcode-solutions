@@ -158,6 +158,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -171,4 +172,12 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
