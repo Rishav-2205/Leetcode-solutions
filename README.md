@@ -195,6 +195,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0728-self-dividing-numbers](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
