@@ -164,6 +164,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0485-max-consecutive-ones](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -184,6 +185,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | ------- |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
