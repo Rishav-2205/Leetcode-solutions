@@ -168,6 +168,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,11 +188,13 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
 | ------- |
@@ -228,4 +231,8 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
