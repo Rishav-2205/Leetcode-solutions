@@ -220,4 +220,12 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
