@@ -162,6 +162,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -187,6 +188,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -194,6 +196,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -237,5 +240,10 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
