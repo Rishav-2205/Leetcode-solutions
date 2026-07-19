@@ -161,6 +161,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0001-two-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -195,6 +196,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -204,6 +206,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -243,6 +246,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
