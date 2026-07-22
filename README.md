@@ -186,6 +186,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [1929-concatenation-of-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
@@ -247,6 +248,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0509-fibonacci-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
