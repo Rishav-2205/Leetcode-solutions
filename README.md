@@ -186,6 +186,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [1929-concatenation-of-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0088-merge-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
