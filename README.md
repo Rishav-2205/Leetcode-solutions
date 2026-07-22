@@ -173,6 +173,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0136-single-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -210,6 +211,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -221,6 +223,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0073-set-matrix-zeroes](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
