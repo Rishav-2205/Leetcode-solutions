@@ -173,6 +173,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -217,6 +218,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0128-longest-consecutive-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1748-sum-of-unique-elements](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -233,6 +235,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
