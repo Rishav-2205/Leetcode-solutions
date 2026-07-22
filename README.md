@@ -162,6 +162,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0031-next-permutation](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +188,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -274,5 +276,6 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
