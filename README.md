@@ -164,6 +164,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0048-rotate-image](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -228,6 +229,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0007-reverse-integer](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
