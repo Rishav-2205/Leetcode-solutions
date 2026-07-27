@@ -11,14 +11,8 @@ class Solution {
             }
            
         }
-        int newarr[][]=new int[ans.size()][2];
-        int i=0;
-        for(int []n:ans){
-            newarr[i]=n;
-            i++;
-        }
-        return newarr;
 
+        return ans.toArray(new int[ans.size()][]);
 
         
         
