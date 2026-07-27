@@ -167,6 +167,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0048-rotate-image](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -223,6 +224,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0015-3sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
