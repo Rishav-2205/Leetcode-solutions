@@ -216,6 +216,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0031-next-permutation](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -294,6 +295,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
