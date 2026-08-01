@@ -1,56 +1,39 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = firstOccurrence(nums, target);
-        int last = lastOccurrence(nums, target);
-
-        return new int[]{first, last};
-    }
-
-    // Find the first occurrence of target
-    public int firstOccurrence(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        int ans = -1;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
+        int first = -1;
+        int last = -1;
+        int low = 0;
+        int high = nums.length - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
             if (nums[mid] == target) {
-                ans = mid;          // Store the index
-                right = mid - 1;    // Search on the left side
-            } 
-            else if (nums[mid] < target) {
-                left = mid + 1;     // Search right half
-            } 
-            else {
-                right = mid - 1;    // Search left half
+                first = mid;
+                high = mid - 1;
+            } else if (nums[mid] > target) {
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
-
+        if (first == -1) {
+            int[] ans = { -1, -1 };
+            return ans;
+        }
+        low = 0;
+        high = nums.length-1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (nums[mid] == target) {
+                last = mid;
+                low = mid + 1;
+            } else if (nums[mid] > target) {
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+        int[] ans = { first,last };
         return ans;
     }
 
-    // Find the last occurrence of target
-    public int lastOccurrence(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        int ans = -1;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;          // Store the index
-                left = mid + 1;     // Search on the right side
-            } 
-            else if (nums[mid] < target) {
-                left = mid + 1;     // Search right half
-            } 
-            else {
-                right = mid - 1;    // Search left half
-            }
-        }
-
-        return ans;
-    }
 }
