@@ -270,6 +270,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0066-plus-one](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -306,6 +307,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
