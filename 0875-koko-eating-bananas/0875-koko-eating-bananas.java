@@ -7,7 +7,7 @@ class Solution {
         int low=1;
         while(low<=max){
             int mid=low+(max-low)/2;
-            int total=0;
+            long total=0;
             for(int i:piles){
                 total+= (i+mid-1)/mid;
                 if (total > h) break;
