@@ -192,6 +192,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -310,6 +311,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0441-arranging-coins](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
