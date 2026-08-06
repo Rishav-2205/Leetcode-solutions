@@ -194,6 +194,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0704-binary-search](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -314,6 +315,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0704-binary-search](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
