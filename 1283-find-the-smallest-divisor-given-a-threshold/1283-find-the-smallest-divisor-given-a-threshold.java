@@ -1,10 +1,7 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int low=1;
-        int high=Integer.MIN_VALUE;
-        for(int i:nums){
-            high=Math.max(high,i);
-        }
+        int high=1000000;
         while(low<=high){
             int mid=low+(high-low)/2;
             int sum=0;
