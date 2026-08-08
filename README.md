@@ -186,6 +186,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0217-contains-duplicate](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -284,6 +285,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -291,6 +293,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -312,6 +315,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -357,4 +361,5 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
