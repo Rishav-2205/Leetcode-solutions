@@ -265,6 +265,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
@@ -281,6 +282,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0507-perfect-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
@@ -363,4 +365,8 @@ It motivates me to keep learning, improving, and sharing my progress.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
