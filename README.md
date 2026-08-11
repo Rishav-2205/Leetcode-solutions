@@ -159,6 +159,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0018-4sum) |
@@ -309,6 +310,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -349,6 +351,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
