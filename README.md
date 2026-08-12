@@ -187,6 +187,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -320,6 +321,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -355,6 +357,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -366,6 +369,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0054-spiral-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
