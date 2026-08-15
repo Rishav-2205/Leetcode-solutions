@@ -305,6 +305,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -385,5 +386,6 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
