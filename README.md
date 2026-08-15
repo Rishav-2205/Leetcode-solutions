@@ -382,4 +382,8 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
