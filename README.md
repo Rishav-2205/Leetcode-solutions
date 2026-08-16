@@ -236,6 +236,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0125-valid-palindrome](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -390,4 +391,5 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0206-reverse-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
