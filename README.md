@@ -237,6 +237,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0125-valid-palindrome](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -252,6 +253,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0056-merge-intervals](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -368,6 +370,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
@@ -398,6 +401,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -413,4 +417,8 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
