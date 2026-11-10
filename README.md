@@ -430,6 +430,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -439,6 +440,7 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,4 +449,9 @@ It motivates me to keep learning, improving, and sharing my progress.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rishav-2205/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
